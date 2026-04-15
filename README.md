@@ -28,4 +28,5 @@ A Python-based tool that evaluates password security based on multiple criteria 
    - Whether the password is on a list of common weak passwords
 3. Based on the criteria, it assigns a strength level and gives specific feedback.
 
-##  Example Output
+ - screenshot
+<img width="558" height="504" alt="WhatsApp Image 2026-04-05 at 3 41 47 PM" src="https://github.com/user-attachments/assets/51d03968-0968-480d-b4bc-12b2a6277f97" />
